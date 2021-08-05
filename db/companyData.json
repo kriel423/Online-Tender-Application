@@ -1,0 +1,317 @@
+[
+    {
+        "company-name": "A2Z Construction",
+        "company-registration": "M0034543",
+        "company-registration-date": "10-11-2011",
+        "key-persons": [
+            {
+                "name": "John Doe",
+                "designation": "Project Leader",
+                "qualification": "B.Tech",
+                "additional-qualification": null,
+                "years-experience": "30",
+                "professional-registration-status": "Active"
+            },
+            {
+                "name": "Jane Doe",
+                "designation": "Design Engineer",
+                "qualification": "B.Eng",
+                "additional-qualification": "M.Eng",
+                "years-experience": "12",
+                "professional-registration-status": "Active"
+            },
+            {
+                "name": "John Doe",
+                "designation": "Contracts Engineer",
+                "qualification": "B.Techni",
+                "additional-qualification": null,
+                "years-experience": "10",
+                "professional-registration-status": "Active"
+            }
+        ],
+        "BBBEE-Certification": "Level 2",
+        "SARS-Certification": "78235361",
+        "CSD-Certification": true,
+        "COIDA-Certification": "ISO-9001"
+    },
+    {
+        "company-name": "Zeeky Consulting",
+        "company-registration": "M0064663",
+        "company-registration-date": "08-03-1998",
+        "key-persons": [
+            {
+                "name": "Mike Thomy",
+                "designation": "Project Leader",
+                "qualification": "B.Sc",
+                "additional-qualification": null,
+                "years-experience": "21",
+                "professional-registration-status": "Active"
+            },
+            {
+                "name": "Barry Single",
+                "designation": "Design Engineer",
+                "qualification": "B.Tech",
+                "additional-qualification": "M.Eng",
+                "years-experience": "16",
+                "professional-registration-status": "Active"
+            },
+            {
+                "name": "Jacky Vian",
+                "designation": "Contracts Engineer",
+                "qualification": "B.Eng",
+                "additional-qualification": null,
+                "years-experience": "15",
+                "professional-registration-status": "Active"
+            }
+        ],
+        "BBBEE-Certification": "Level 1",
+        "SARS-Certification": "256463",
+        "CSD-Certification": true,
+        "COIDA-Certification": "In-house"
+    },
+    {
+        "company-name": "Beekay Ltd",
+        "company-registration": "M0055163",
+        "company-registration-date": "03-08-2000",
+        "key-persons": [
+            {
+                "name": "Megan Dryver",
+                "designation": "Project Leader",
+                "qualification": "B.Eng",
+                "additional-qualification": null,
+                "years-experience": "10",
+                "professional-registration-status": "Active"
+            },
+            {
+                "name": "Nancy Mangle",
+                "designation": "Design Engineer",
+                "qualification": "B.Tech",
+                "additional-qualification": "M.Eng",
+                "years-experience": "8",
+                "professional-registration-status": "Active"
+            },
+            {
+                "name": "Freddy Bing",
+                "designation": "Contracts Engineer",
+                "qualification": "B.Sc",
+                "additional-qualification": null,
+                "years-experience": "20",
+                "professional-registration-status": "Active"
+            }
+        ],
+        "BBBEE-Certification": "Level 1",
+        "SARS-Certification": "8682437",
+        "CSD-Certification": true,
+        "COIDA-Certification": "ISO-9001"
+    },
+    {
+        "company-name": "Quence Consulting Ltd",
+        "company-registration": "M0034461",
+        "company-registration-date": "08-10-2016",
+        "key-persons": [
+            {
+                "name": "Pascal Dryer",
+                "designation": "Project Leader",
+                "qualification": "B.Techni Eng",
+                "additional-qualification": null,
+                "years-experience": "19",
+                "professional-registration-status": "Active"
+            },
+            {
+                "name": "Vinny John",
+                "designation": "Design Engineer",
+                "qualification": "B.Sc",
+                "additional-qualification": "M.Eng",
+                "years-experience": "11",
+                "professional-registration-status": "Active"
+            },
+            {
+                "name": "Dean Bonsoe",
+                "designation": "Contracts Engineer",
+                "qualification": "B.Tech",
+                "additional-qualification": null,
+                "years-experience": "16",
+                "professional-registration-status": "Active"
+            }
+        ],
+        "BBBEE-Certification": "Level 2",
+        "SARS-Certification": "91496463",
+        "CSD-Certification": true,
+        "COIDA-Certification": "In-house"
+    },
+    {
+        "company-name": "MAX3000 Holdings",
+        "company-registration": "M0081190",
+        "company-registration-date": "08-04-2013",
+        "key-persons": [
+            {
+                "name": "Gonzy Lawless",
+                "designation": "Project Leader",
+                "qualification": "B.Tech",
+                "additional-qualification": null,
+                "years-experience": "12",
+                "professional-registration-status": "Active"
+            },
+            {
+                "name": "Becky Mingson",
+                "designation": "Design Engineer",
+                "qualification": "B.Eng",
+                "additional-qualification": "M.Eng",
+                "years-experience": "15",
+                "professional-registration-status": "Active"
+            },
+            {
+                "name": "Sonny Li",
+                "designation": "Contracts Engineer",
+                "qualification": "B.Tech",
+                "additional-qualification": null,
+                "years-experience": "10",
+                "professional-registration-status": "Active"
+            }
+        ],
+        "BBBEE-Certification": "Level 1",
+        "SARS-Certification": "08991253",
+        "CSD-Certification": true,
+        "COIDA-Certification": "ISO-9001"
+    },
+    {
+        "company-name": "DNMK Ltd",
+        "company-registration": "M0091788",
+        "company-registration-date": "21-12-2009",
+        "key-persons": [
+            {
+                "name": "Joe Saday",
+                "designation": "Project Leader",
+                "qualification": "B.Tech",
+                "additional-qualification": null,
+                "years-experience": "25",
+                "professional-registration-status": "Active"
+            },
+            {
+                "name": "Milly Grain",
+                "designation": "Design Engineer",
+                "qualification": "B.Eng",
+                "additional-qualification": "M.Eng",
+                "years-experience": "20",
+                "professional-registration-status": "Active"
+            },
+            {
+                "name": "Jeff Bobb",
+                "designation": "Contracts Engineer",
+                "qualification": "B.Tech",
+                "additional-qualification": null,
+                "years-experience": "27",
+                "professional-registration-status": "Active"
+            }
+        ],
+        "BBBEE-Certification": "Level 3",
+        "SARS-Certification": "46566381",
+        "CSD-Certification": false,
+        "COIDA-Certification": "ISO-9001"
+    },
+    {
+        "company-name": "Lead Consulting",
+        "company-registration": "M0078783",
+        "company-registration-date": "05-11-2004",
+        "key-persons": [
+            {
+                "name": "Lloyd Ven",
+                "designation": "Project Leader",
+                "qualification": "B.Tech",
+                "additional-qualification": null,
+                "years-experience": "31",
+                "professional-registration-status": "Active"
+            },
+            {
+                "name": "May Bree",
+                "designation": "Design Engineer",
+                "qualification": "B.Eng",
+                "additional-qualification": "M.Eng",
+                "years-experience": "32",
+                "professional-registration-status": "Active"
+            },
+            {
+                "name": "Jazmyn Sky",
+                "designation": "Contracts Engineer",
+                "qualification": "B.Tech",
+                "additional-qualification": null,
+                "years-experience": "12",
+                "professional-registration-status": "Active"
+            }
+        ],
+        "BBBEE-Certification": "Level 1",
+        "SARS-Certification": "78775612",
+        "CSD-Certification": true,
+        "COIDA-Certification": "In-house"
+    },
+    {
+        "company-name": "Bysect Lead Construction",
+        "company-registration": "M0022199",
+        "company-registration-date": "30-07-1995",
+        "key-persons": [
+            {
+                "name": "Arial Trytony",
+                "designation": "Project Leader",
+                "qualification": "B.Tech",
+                "additional-qualification": null,
+                "years-experience": "21",
+                "professional-registration-status": "Active"
+            },
+            {
+                "name": "Jack Nessa",
+                "designation": "Design Engineer",
+                "qualification": "B.Eng",
+                "additional-qualification": "M.Eng",
+                "years-experience": "25",
+                "professional-registration-status": "Active"
+            },
+            {
+                "name": "Brian Polosy",
+                "designation": "Contracts Engineer",
+                "qualification": "B.Tech",
+                "additional-qualification": null,
+                "years-experience": "25",
+                "professional-registration-status": "Active"
+            }
+        ],
+        "BBBEE-Certification": "Level 3",
+        "SARS-Certification": "55443537",
+        "CSD-Certification": false,
+        "COIDA-Certification": "ISO-9001"
+    },
+    {
+        "company-name": "GenSeng Professional",
+        "company-registration": "M0033533",
+        "company-registration-date": "24-10-2003",
+        "key-persons": [
+            {
+                "name": "Randal Liabee",
+                "designation": "Project Leader",
+                "qualification": "B.Tech",
+                "additional-qualification": null,
+                "years-experience": "15",
+                "professional-registration-status": "Active"
+            },
+            {
+                "name": "Michael Garry",
+                "designation": "Design Engineer",
+                "qualification": "B.Eng",
+                "additional-qualification": "M.Eng",
+                "years-experience": "11",
+                "professional-registration-status": "Active"
+            },
+            {
+                "name": "Greg Dickery",
+                "designation": "Contracts Engineer",
+                "qualification": "B.Tech",
+                "additional-qualification": null,
+                "years-experience": "24",
+                "professional-registration-status": "Active"
+            }
+        ],
+        "BBBEE-Certification": "Level 2",
+        "SARS-Certification": "56435894",
+        "CSD-Certification": true,
+        "COIDA-Certification": "ISO-9001"
+    }
+]
