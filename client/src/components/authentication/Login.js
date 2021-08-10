@@ -1,25 +1,30 @@
 import './authentication.css';
+import {Link} from "react-router-dom";
+//images
+import file_icon from "../../assets/file-icon.svg";
+import mail_icon from "../../assets/mail.png"
+import lock_icon from "../../assets/lock.png"
 
 export default function Login(){
     return(
-        <div class="authenticate-outer">
-            <div class="authenticate">
-                <div class="left-icon">
+        <div className="authenticate-outer">
+            <div className="authenticate">
+                <div className="left-icon">
                     <h2>Tender Portal</h2>
-                    <img src="../assets/icons/file-icon.svg" alt="" width="176px" height="176px"/>
+                    <img src={file_icon} alt="" width="176px" height="176px"/>
                 </div>
-                <div class="divider"></div>
+                <div className="divider"></div>
                 <form>
-                    <div class="input-group">
-                        <img src="../assets/icons/mail.png" alt=""/>
+                    <div className="input-group">
+                        <img src={mail_icon} alt=""/>
                         <input type="text" placeholder="Enter Email Address"/>
                     </div>
-                    <div class="input-group">
-                        <img src="../assets/icons/lock.png" alt=""/>
+                    <div className="input-group">
+                        <img src={lock_icon} alt=""/>
                         <input type="password" placeholder="Password"/>
                     </div>
                     <button type="submit">Login</button>
-                    <p><a href="./signup.html">Click here to Sign Up</a></p>
+                    <p><Link to="/signup">Click here to Sign Up</Link></p>
                 </form>
             </div>
         </div>
