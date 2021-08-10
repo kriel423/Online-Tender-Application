@@ -1,0 +1,21 @@
+
+.top-nav{
+    background-color:#2F8E0D;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    padding:20px;
+    margin:0;
+}
+.top-nav .nav-links{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:center;
+    list-style: none;
+}
+.top-nav .nav-links li{
+    color:#FFF;
+    margin: 12px;
+    font-size: 20px;
+}
